@@ -1,0 +1,53 @@
+week	date	phase	title
+01	2026-10-19	Phase 0 · 环境与 Python 手感	现代 Python 工具链（uv + pydantic + typer）
+02	2026-10-26	Phase 0 · 环境与 Python 手感	数据手感（pandas / numpy）
+03	2026-11-02	Phase 1 · LLM 应用开发	API 与结构化输出
+04	2026-11-09	Phase 1 · LLM 应用开发	Prompt 工程（工程视角）
+05	2026-11-16	Phase 1 · LLM 应用开发	原理：Transformer 到底在干嘛
+06	2026-11-23	Phase 1 · LLM 应用开发	Tool use / Function calling
+07	2026-11-30	Phase 1 · LLM 应用开发	Eval（一）：建评测集
+08	2026-12-07	Phase 1 · LLM 应用开发	Eval（二）：让它指导迭代
+09	2026-12-14	Phase 1 · LLM 应用开发	成本、流式与可靠性
+10	2026-12-21	Phase 1 · LLM 应用开发	项目 ① 完成
+11	2026-12-28	Phase 1 · LLM 应用开发	⏸ 缓冲 / 项目 ① 打磨
+12	2027-01-04	Phase 2 · RAG 检索增强	手写最小 RAG
+13	2027-01-11	Phase 2 · RAG 检索增强	Chunking 实验
+14	2027-01-18	Phase 2 · RAG 检索增强	向量库选型与落地
+15	2027-01-25	Phase 2 · RAG 检索增强	检索质量：Hybrid + Rerank
+16	2027-02-01	Phase 2 · RAG 检索增强	项目 ② 启动：垂直数据
+17	2027-02-08	Phase 2 · RAG 检索增强	项目 ② 实现
+18	2027-02-15	Phase 2 · RAG 检索增强	⏸ 缓冲 / 项目 ② 上线
+19	2027-02-22	Phase 3 · Agent 智能体	手写 ReAct 循环
+20	2027-03-01	Phase 3 · Agent 智能体	工具工程化
+21	2027-03-08	Phase 3 · Agent 智能体	框架选型（只选一个）
+22	2027-03-15	Phase 3 · Agent 智能体	Memory 与状态
+23	2027-03-22	Phase 3 · Agent 智能体	可观测性
+24	2027-03-29	Phase 3 · Agent 智能体	安全与边界
+25	2027-04-05	Phase 3 · Agent 智能体	⏸ 缓冲 / 整合
+26	2027-04-12	Phase 4 · 部署与工程化	API 服务化
+27	2027-04-19	Phase 4 · 部署与工程化	容器化与部署
+28	2027-04-26	Phase 4 · 部署与工程化	流式与前端
+29	2027-05-03	Phase 4 · 部署与工程化	监控与成本治理
+30	2027-05-10	Phase 4 · 部署与工程化	⏸ 缓冲 / 安全加固
+31	2027-05-17	Phase 5 · Capstone A	选题与验证
+32	2027-05-24	Phase 5 · Capstone A	设计与 eval 前置
+33	2027-05-31	Phase 5 · Capstone A	实现（1/4）
+34	2027-06-07	Phase 5 · Capstone A	实现（2/4）
+35	2027-06-14	Phase 5 · Capstone A	实现（3/4）
+36	2027-06-21	Phase 5 · Capstone A	实现（4/4）
+37	2027-06-28	Phase 5 · Capstone A	部署 + 文档
+38	2027-07-05	Phase 5 · Capstone A	发布与反馈
+39	2027-07-12	Phase 6 · Capstone B / 深化	路线确定
+40	2027-07-19	Phase 6 · Capstone B / 深化	选题与 eval 前置
+41	2027-07-26	Phase 6 · Capstone B / 深化	执行（1/5）
+42	2027-08-02	Phase 6 · Capstone B / 深化	执行（2/5）
+43	2027-08-09	Phase 6 · Capstone B / 深化	执行（3/5）
+44	2027-08-16	Phase 6 · Capstone B / 深化	执行（4/5）
+45	2027-08-23	Phase 6 · Capstone B / 深化	执行（5/5）
+46	2027-08-30	Phase 6 · Capstone B / 深化	部署与文档
+47	2027-09-06	Phase 6 · Capstone B / 深化	⏸ 缓冲
+48	2027-09-13	Phase 7 · 收尾与输出	作品集整理
+49	2027-09-20	Phase 7 · 收尾与输出	简历 / 个人站
+50	2027-09-27	Phase 7 · 收尾与输出	技术输出
+51	2027-10-04	Phase 7 · 收尾与输出	补短板
+52	2027-10-11	Phase 7 · 收尾与输出	全年复盘 + 下一轮规划
