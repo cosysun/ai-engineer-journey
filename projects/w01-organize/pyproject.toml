@@ -1,0 +1,24 @@
+[project]
+name = "organize"
+version = "0.1.0"
+description = "按扩展名或日期批量归档文件的 CLI（W01 交付物）"
+authors = [
+    { name = "cosysun" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "pydantic>=2.14.1",
+    "typer>=0.27.3",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+]
+
+[project.scripts]
+organize = "organize:app"
+
+[build-system]
+requires = ["uv_build>=0.12.15,<0.13.0"]
+build-backend = "uv_build"
